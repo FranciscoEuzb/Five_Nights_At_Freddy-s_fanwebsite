@@ -8,6 +8,8 @@ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubun
 
 }
 
+/** header com o menu acima + interação **/
+
 nav ul{
 
     list-style: none;
@@ -96,5 +98,18 @@ nav li #ul2 a:hover{
     0 0 002px #ffcaca, /* Cor do neon */
     0 0 10px #ff4040,
     0 0 10px #ff0000;
+
+}
+
+/** header 2 **/
+
+#header2{
+
+    width: 100%;
+    height: 550px;
+    background-repeat: no-repeat;
+    background-image: url(../imgs/OnlyFNaFbackground.gif);
+    background-size: 100%;
+    background-position-y: -75px;
 
 }
