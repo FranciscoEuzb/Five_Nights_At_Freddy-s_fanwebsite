@@ -113,3 +113,14 @@ nav li #ul2 a:hover{
     background-position-y: -75px;
 
 }
+
+
+/** Main **/
+
+main{
+
+    height: 2000px;
+    background-color: whitesmoke;
+    
+
+}
