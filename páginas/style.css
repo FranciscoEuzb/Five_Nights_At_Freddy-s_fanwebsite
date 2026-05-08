@@ -4,8 +4,6 @@ margin: 0%;
 padding: 0%;
 text-decoration: none;
 font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-
-
 }
 
 body{
@@ -167,7 +165,20 @@ main{
 
 }
 
+#dmsinfo a p{
 
+    font-size: 15px;
+    color: rgb(140, 89, 187);
+    transition: ease 0.10s;
+
+}
+
+#dmsinfo a p:hover{
+
+    color: purple;
+    font-size: 16px;
+
+}
 
 .backgmeio{
 
@@ -179,18 +190,147 @@ main{
 
 }
 
+/** youtubers **/
 
+.iconsytbrs{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .card{
+    text-align: center;
+  }
+  
+  .card img{
+    width: 130px;
+    height: 130px;
+    object-fit: cover;
+    border-radius: 5px;
+    transition: ease 0.10s;
+  }
+  
+  .card p{
+    margin-top: 5px;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    -webkit-text-stroke: 0.9px rgb(138, 38, 38);
+  }
 
-  .iconsytbrs img{
+  .iconsytbrsgringos{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .card1{
+    text-align: center;
+  }
+  
+  .card1 img{
+    width: 130px;
+    height: 130px;
+    object-fit: cover;
+    border-radius: 5px;
+    transition: ease 0.10s;
+  }
+  
+  .card1 p{
+    margin-top: 5px;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    -webkit-text-stroke: 0.9px rgb(27, 0, 177);
+    margin-bottom: 20px;
+  }
 
+  .card1 img:hover{
+
+    width: 140px;
+    height: 140px;
+
+  }
+
+  .card img:hover{
+
+    width: 140px;
+    height: 140px;
+
+  }
+
+  /** scott part **/
+
+  #puppetmaster{
+
+    background-color: black;
+    height: 500px;
+
+  }
+
+  .scott img{
+
+    float: left;
     width: 15%;
-    height: 15%;
+    margin-right: 50px;
+    margin-left: 100px;
+    scale: 1.1;
+    border: 2px solid whitesmoke;
+    border-radius: 3px;
+    padding: 5px;
+
+  }
+
+  #puppetmaster p{
+
+    margin-top: 10px;
+    color: rgb(236, 236, 236);
+
+  }
+
+  #puppetmaster h3{
+
+    font-size: 40px;
+    margin-top: -20px;
+    color: whitesmoke;
+    -webkit-text-stroke: 1.5px rgb(0, 77, 177);
+
+  }
+
+
+
+#puppetmaster .scttchannel{
+
+    width: 100%;
+    height: 80px;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
 
 }
 
-    .iconsytbrs{
+.scttchannel a button{
 
-    text-align: center;
+    cursor: pointer;
+    transition: ease 0.10s;
+    padding: 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 100;
+    color: white;
+    border: 1.9px solid white;
+    background-color: rgb(13, 76, 97);
 
-  }
-  
+}
+
+.scttchannel a button:hover{
+
+    padding: 15px;
+    font-size: 25px;
+
+}
+
