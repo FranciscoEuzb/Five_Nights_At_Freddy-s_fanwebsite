@@ -135,3 +135,32 @@
 
 
     }
+
+
+    .animatronics{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.anims{
+  text-align: center;
+  padding: 30px;
+}
+
+.anims img{
+  width: 150px;
+  height: 250px;
+  border-radius: 5px;
+}
+
+.anims p{
+  margin-top: 5px;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  -webkit-text-stroke: 0.9px rgb(25, 37, 141);
+}
+
