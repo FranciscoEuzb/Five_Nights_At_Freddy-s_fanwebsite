@@ -128,7 +128,7 @@
     main{
 
         width: 80%;
-        height: 3000px;
+        height: 5000px;
         background-color: black;
         align-self: center;
         justify-self: center;
@@ -164,3 +164,20 @@
   -webkit-text-stroke: 0.9px rgb(25, 37, 141);
 }
 
+
+
+#curiosities1 {
+
+    background-color: #2e2e2e;
+    height: 2000px;
+    width: 100%;
+
+
+}
+
+.curiosity1, .curiosity2, .curiosity3{
+
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
