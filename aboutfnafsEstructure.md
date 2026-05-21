@@ -9,8 +9,7 @@
 - possíveis teorias
 - curiosidades a respeito da história e do jogo
 - easter eggs + cenas raras dentro do jogo
-- vídeos de gameplay gringas + brasileiras p/ referências
-- vídeos de teorias apenas do jogo em específico
+- músicas e animações antigas
 
 <h2>FNAF 2</h2>
 - interligação com o primeiro fnaf
@@ -24,5 +23,4 @@
 - possíveis teorias
 - curiosidades a respeito de jogo/história
 - easter eggs + cenas raras e aparições
-- vídeos de gameplays gringas + brasileiras
-- vídeos de teorias do jogo em específico
+- músicas e animações antigas

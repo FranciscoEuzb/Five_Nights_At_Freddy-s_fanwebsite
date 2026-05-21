@@ -169,18 +169,20 @@
 #curiosities1 {
 
     background-color: #2e2e2e;
-    height: 2000px;
+    height: 2500px;
     width: 100%;
 
 
 }
 
-.curiosity1, .curiosity2, .curiosity3{
+.curiosity1, .curiosity2, .curiosity3, .curiosity4{
 
     padding-left: 100px;
     padding-right: 100px;
 
 }
+
+
 
 .newgame {
 
