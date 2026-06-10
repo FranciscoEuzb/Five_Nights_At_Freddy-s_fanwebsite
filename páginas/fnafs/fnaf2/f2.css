@@ -9,25 +9,12 @@
     
     body{
     
-        background-image: url(../fnaf2/imgs/);
-        background-repeat: repeat-y;
-        background-size: 100%;
+        background-image: url(../fnaf2/imgs/red&bluebackground.jpg);
+        background-repeat: repeat;
+        background-size: 40%;
     
     }
-    body #b2{
     
-        background-image: url(../fnaf2/imgs/);
-        background-repeat: repeat-y;
-        background-size: 100%;
-    
-    }
-    body #b3{
-    
-        background-image: url(../fnaf2/imgs/);
-        background-repeat: repeat-y;
-        background-size: 100%;
-    
-    }
     
     /** header com o menu acima + interação **/
     
