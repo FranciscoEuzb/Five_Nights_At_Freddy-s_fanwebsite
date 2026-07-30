@@ -128,7 +128,7 @@
     main{
 
         width: 80%;
-        height: 10000px;
+        height: 12000px;
         background-color: black;
         align-self: center;
         justify-self: center;
@@ -169,13 +169,13 @@
 #curiosities1 {
 
     background-color: #2e2e2e;
-    height: 2500px;
+    height: 3100px;
     width: 100%;
 
 
 }
 
-.curiosity1, .curiosity2, .curiosity3, .curiosity4{
+.curiosity1, .curiosity2, .curiosity3, .curiosity4, .curiosity5{
 
     padding-left: 100px;
     padding-right: 100px;
