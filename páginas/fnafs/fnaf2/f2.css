@@ -141,7 +141,15 @@
 
     #mecanicasf2{
 
-        height: 2000px;
+        height: 1700px;
         background-color: rgb(46, 11, 11);
+
+    }
+
+
+    #f2characters{
+
+        height: 1000px;
+        
 
     }
