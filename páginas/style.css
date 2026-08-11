@@ -408,11 +408,11 @@ main{
 
 .criacoesdosfans p{
   margin-top: 5px;
-  color: rgb(255, 255, 255);
+  color: rgb(255, 205, 205);
   font-size: 18px;
   font-weight: bold;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  -webkit-text-stroke: 0.9px rgb(25, 37, 141);
+  -webkit-text-stroke: 0.9px rgb(141, 25, 44);
 }
 
 .criacoesdosfans img:hover{
