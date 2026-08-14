@@ -395,14 +395,14 @@ main{
 
 .criacoesdosfans{
   text-align: center;
-  padding: 20px;
+  padding: 10px;
 }
 
 .criacoesdosfans img{
   width: 130px;
   height: 130px;
   object-fit: cover;
-  border-radius: 50px;
+  border-radius: 20px;
   transition: ease 0.5s;
 }
 
